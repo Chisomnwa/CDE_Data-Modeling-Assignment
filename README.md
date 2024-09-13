@@ -67,4 +67,4 @@ b. Dimensional Modeling - the big picture
 <img src="https://github.com/Chisomnwa/CDE_Data-Modeling-Assignment/blob/master/fufu_republic_dimensional_model.png" width="540" height="540">
 
 
-This solution with the full details captured [here](https://docs.google.com/presentation/d/1eHlx8JQcEIsJ9wte8s5X0SnhZGBDClDm/edit?usp=sharing&ouid=115975829916748489005&rtpof=true&sd=true) provides a step-by-step approach to developing a data modeling strategy that addresses Fufu Republic’s need for data-driven decision-making, focusing on optimizing inventory management, enhancing customer experience, and improving operational insights.
+This solution with the full details captured [here](put link) provides a step-by-step approach to developing a data modeling strategy that addresses Fufu Republic’s need for data-driven decision-making, focusing on optimizing inventory management, enhancing customer experience, and improving operational insights.
